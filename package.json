@@ -1,0 +1,11 @@
+{
+	"name": "drawing",
+	"version": "0.1.0",
+	"description": "Matterhorn drawing utilities",
+	"author": "Liam Doherty",
+	"main": "main",
+	"dependencies" : {
+		"matterhorn": ">=0.1",
+		"underscorem": ">=0.1"
+	}
+}
